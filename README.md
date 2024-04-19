@@ -1,8 +1,8 @@
 Automation Testing Capstone Project
 Create a Testing Framework for Sporty Shoes Website
-Name : Parichay Haldar
-Email : phaldar@cisco.com
-Github :  https://github.com/SpinoTech/Exam-ATE-Capstone-Project.git
+Name : Lakshmi Prashanthi
+Email : lakshmip@cisco.com
+Github :  
 
 Problem Statement and Motivation Real-Time Scenario:
  Sporty Shoes has an e-commerce website that has the following existing features in place:  I used https://neemans.com/ for the task.
